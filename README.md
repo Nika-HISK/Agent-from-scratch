@@ -31,7 +31,7 @@ Gemini: finish("Berlin")
 
 ---
 
-## 🛠️ Setup
+## Setup
 
 ### 1. Clone the repo
 
