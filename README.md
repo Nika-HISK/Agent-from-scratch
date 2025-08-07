@@ -22,7 +22,8 @@ This is a simple ReAct-style AI Agent built **from scratch** in **TypeScript**, 
 ```bash
 $ npx tsx index.ts
 
-Gemini: lookup(capital of France)
+Gemini: lookup("capital of Germany")
 
-Gemini: finish()
-Task complete.
+Gemini: finish("Berlin")
+
+ Final Answer: Berlin
